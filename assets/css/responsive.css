@@ -1,0 +1,198 @@
+/* ------------------------ Max Width 1366px ------------------------ */
+@media (max-width: 1366px) {
+
+}
+/* ------------------------ Max Width 1280px ------------------------ */
+@media (max-width: 1280px) {
+
+}
+/* ------------------------ Min Width 1280px ------------------------ */
+@media (min-width: 1200px) {
+.container {
+    max-width: 1400px;
+}
+}
+/* ------------------------ Max Width 1080px ------------------------ */
+@media (max-width: 1080px) {
+
+}
+/* ------------------------ Min Width 1076px ------------------------ */
+@media (min-width: 1076px) {
+#cs_navbar .navbar-nav {
+    margin-left:155px;
+}
+#cs_search_icon {
+    order:3;
+}
+}
+/* ------------------------ Max Width 1024px ------------------------ */
+@media (max-width: 1024px) {
+.cs_parrlax .content_details {
+	width:70%;
+}
+}
+/* ------------------------ Max Width 966px ------------------------ */
+@media (max-width: 966px) {
+.cs_parrlax .content_details {
+	width:100%;
+}
+#cs_navbar .navbar-nav .nav-item .nav-link {
+	margin:0px 5px;
+}
+}
+/* ------------------------ Max Width 853px ------------------------ */
+@media (max-width: 853px) {
+
+}
+/* ------------------------ Max Width 800px ------------------------ */
+@media (max-width: 800px) {
+
+}
+/* ------------------------ Max Width 768px ------------------------ */
+@media (max-width: 768px) {
+
+}
+/* ------------------------ Max Width 767px ------------------------ */
+@media (max-width: 767px) {
+#cs_inner_body .heading h1 {
+    font-size:25px;
+}
+.contact_lists .con_grid:first-child {
+    flex:0 0 100%;
+    max-width:100%;
+    padding-right:00px;
+    margin-bottom:20px;
+}
+.contact_lists .con_grid:last-child {
+    flex:0 0 100%;
+    max-width:100%;
+}
+#cs_top_bar .grid_left {
+    text-align: center;
+}
+#cs_top_bar .grid_right {
+    text-align: center;
+}
+#cs_top_bar .sh_icons {
+    margin-top: 30px;
+}
+#cart_drp:before {
+    display: none;
+}
+}
+/* ------------------------ Max Width 736px ------------------------ */
+@media (max-width: 736px) {
+#cs_navbar .navbar-nav .nav-item .nav-link {
+    line-height: 2;
+}
+#cs_footer .copyright {
+    margin-bottom: 20px;
+    text-align: center;
+}
+#cs_footer .f_social {
+    text-align: center;
+    margin-top:10px;
+}
+#cs_footer .copyright {
+    letter-spacing:2px;
+}
+/*.cs_parrlax {
+    height:80vh;
+}*/
+#cs_inner_body {
+    padding:40px 15px;
+}
+#cs_inner_body .heading {
+    margin-bottom:10px;
+}
+.about_page .content_about h3 {
+    margin-top:20px;
+}
+.gallery_page .content_gallery ul li {
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding: 5px;
+}
+}
+/* ------------------------ Max Width 732px ------------------------ */
+@media (max-width: 732px) {
+
+}
+/* ------------------------ Max Width 720px ------------------------ */
+@media (max-width: 720px) {
+
+}
+/* ------------------------ Max Width 690px ------------------------ */
+@media (max-width: 690px) {
+
+}
+/* ------------------------ Max Width 667px ------------------------ */
+@media (max-width: 667px) {
+
+}
+/* ------------------------ Max Width 640px ------------------------ */
+@media (max-width: 640px) {
+
+}
+/* ------------------------ Max Width 603px ------------------------ */
+@media (max-width: 603px) {
+#cs_navbar .navbar-brand {
+    padding: 10px 0px;
+}
+.cs_parrlax .content_details h1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.cs_parrlax .content_details p {
+    font-size: 12px;
+}
+}
+/* ------------------------ Max Width 600px ------------------------ */
+@media (max-width: 600px) {
+
+}
+/* ------------------------ Max Width 598px ------------------------ */
+@media (max-width: 598px) {
+
+}
+/* ------------------------ Max Width 568px ------------------------ */
+@media (max-width: 568px) {
+
+}
+/* ------------------------ Max Width 533px ------------------------ */
+@media (max-width: 533px) {
+#cs_scrollbar {
+	right:20px;
+}
+.cs_parrlax {
+    padding: 0px 15px;
+}
+}
+/* ------------------------ Max Width 480px ------------------------ */
+@media (max-width: 480px) {
+
+}
+/* ------------------------ Max Width 414px ------------------------ */
+@media (max-width: 414px) {
+
+}
+/* ------------------------ Max Width 412px ------------------------ */
+@media (max-width: 412px) {
+
+}
+/* ------------------------ Max Width 384px ------------------------ */
+@media (max-width: 384px) {
+
+}
+/* ------------------------ Max Width 375px ------------------------ */
+@media (max-width: 375px) {
+
+}
+/* ------------------------ Max Width 360px ------------------------ */
+@media (max-width: 360px) {
+
+}
+/* ------------------------ Max Width 320px ------------------------ */
+@media (max-width: 320px) {
+
+}
